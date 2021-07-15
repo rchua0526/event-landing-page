@@ -1,0 +1,32 @@
+.container {
+    text-align: center;
+    align-items: center;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    flex-wrap: wrap;
+}
+
+nav li {
+    float: right;
+    list-style-type: none;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+}
+
+.logo{
+    width: 100px;
+    float: left;
+}
+
+.card {
+    float: left;
+    margin: 10px;
+    justify-content: center;
+}
