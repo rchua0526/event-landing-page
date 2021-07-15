@@ -1,0 +1,29 @@
+.container {
+    text-align: center;
+}
+
+.btn {
+   flex-direction: column;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    flex-wrap: wrap;
+}
+
+nav li {
+    float: right;
+    list-style-type: none;
+    padding: 10px;
+    /* width: 380px; */
+    text-align: center;
+    text-decoration: none;
+    color: black;
+}
+.IMG {
+    justify-content: space-between;
+}
