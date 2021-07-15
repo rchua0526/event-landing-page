@@ -1,9 +1,6 @@
 .container {
     text-align: center;
-}
-
-.btn {
-   flex-direction: column;
+    align-items: center;
 }
 
 h1 {
@@ -19,11 +16,17 @@ nav li {
     float: right;
     list-style-type: none;
     padding: 10px;
-    /* width: 380px; */
     text-align: center;
     text-decoration: none;
-    color: black;
 }
-.IMG {
-    justify-content: space-between;
+
+.logo{
+    width: 100px;
+    float: left;
+}
+
+.card {
+    float: left;
+    margin: 10px;
+    justify-content: center;
 }
