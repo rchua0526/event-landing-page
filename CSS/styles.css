@@ -29,3 +29,13 @@ nav li {
     float: left;
     margin: 10px;
 }
+
+.jumbotron {
+    background-image: url(https://i.stack.imgur.com/y9DpT.jpg);
+    background-position: center;
+}
+
+footer {
+    float: right;
+    justify-content: end;
+}
